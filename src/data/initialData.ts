@@ -62,7 +62,7 @@ export const initialData: PortfolioDatabase = {
     facebook: 'https://www.facebook.com/ihsan1334',
     linkedin: 'https://www.linkedin.com/in/ihsan1334',
     twitter: 'https://twitter.com/ihsan1334',
-    avatarUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop',
+    avatarUrl: '/assets/ehsanul_haque_khan_nafis.png',
     philosophies: [
       {
         stage: { bn: 'ধাপ ১', en: 'Stage 1', ar: 'المرحلة الأولى' },
@@ -938,7 +938,7 @@ export const initialData: PortfolioDatabase = {
     },
     {
       id: 'med-1',
-      url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop',
+      url: '/assets/ehsanul_haque_khan_nafis.png',
       name: 'portrait-official.jpg',
       type: 'image',
       mediaCategory: 'photo',
@@ -988,7 +988,7 @@ export const initialData: PortfolioDatabase = {
       en: 'Bridging scholarship, Arabic linguistics, public oratory, and civic impact.',
       ar: 'منصة تجمع بين البحث العلمي الرصين وفصاحة البيان والخدمة الإنسانية النبيلة.',
     },
-    ogImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop',
+    ogImage: '/assets/ehsanul_haque_khan_nafis.png',
   },
   settings: {
     autoTranslateOnSave: true,

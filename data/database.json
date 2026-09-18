@@ -1,911 +1,911 @@
 {
   "profile": {
-    "name": {
-      "bn": "এহসানুল হক খান নাফিস",
-      "en": "Ihsanul Haque Khan Nafis",
-      "ar": "إحسان الحق خان نفيس"
-    },
-    "secondaryName": "Ehsanul Haque Khan Nafis",
-    "arabicCalligraphy": "إحسان الحق خان نفيس",
     "headline": {
-      "bn": "আরবি ভাষা ও সীরাত চর্চা এবং শিক্ষকতায় নিবেদিত",
       "en": "Dedicated to Arabic Language, Seerah Studies & Teaching",
-      "ar": "مكرس لدراسات اللغة العربية والسيرة النبوية والتعليم"
+      "ar": "مكرس لدراسات اللغة العربية والسيرة النبوية والتعليم",
+      "bn": "আরবি ভাষা ও সীরাত চর্চা এবং শিক্ষকতায় নিবেদিত"
     },
-    "rolesBadge": {
-      "bn": "শিক্ষক • অনুবাদক • অ্যাক্টিভিস্ট",
-      "en": "Educator • Translator • Activist",
-      "ar": "معلم • مترجم • ناشط"
-    },
-    "shortBio": {
-      "bn": "ইসলামী বিশ্ববিদ্যালয় কুষ্টিয়ার আরবি ভাষা ও সাহিত্য বিভাগের শিক্ষার্থী। উচ্চাঙ্গ আরবি ভাষাতত্ত্ব, পাবলিক স্পিকিং এবং স্বেচ্ছাসেবী কার্যক্রমে নিবেদিত।",
-      "en": "Undergraduate scholar in the Department of Arabic Language & Literature at Islamic University, Kushtia. Dedicated to classical & modern Arabic linguistics, public speaking, and community service.",
-      "ar": "طالب وباحث في قسم اللغة العربية وآدابها بالجامعة الإسلامية بكوشتيا، بنغلاديش. مكرس لعلوم اللسانيات العربية، والخطابة، والعمل التطوعي المجتمعي."
-    },
-    "longBio": {
-      "bn": "জ্ঞান, ভাষা ও মানবসেবার সমন্বয়ে একটি সমৃদ্ধ ভবিষ্যৎ গড়াই আমার লক্ষ্য। মাদরাসা-শিক্ষাজীবন থেকে আরবি ভাষা ও সাহিত্যচর্চায় নিবেদিত। মান্দারী ফালাহিয়া দাখিল মাদরাসা ও তামিরুল মিল্লাত কামিল মাদরাসার শিক্ষাজীবন শেষে ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া থেকে আরবি ভাষা ও সাহিত্যে উচ্চশিক্ষা সম্পন্ন করেছি। একাডেমিক ও সৃজনশীল কর্মকাণ্ডের পাশাপাশি সামাজিক ও স্বেচ্ছাসেবী কার্যক্রমে সক্রিয় থেকে জ্ঞান ও দক্ষতাকে মানুষের কল্যাণে কাজে লাগাতে সচেষ্ট।",
-      "en": "My vision is to build an impactful future through the harmonious blend of knowledge, language, and civic service. Dedicated to Arabic language and literary scholarship since early madrasa education, I completed my foundational studies at Mandari Falahia Dakhil Madrasa and Tamirul Millat Kamil Madrasa, followed by higher education in Arabic Language & Literature from Islamic University, Kushtia. Alongside academic and creative pursuits, I remain actively engaged in social welfare and voluntary initiatives, striving to channel knowledge and competencies toward the betterment of humanity.",
-      "ar": "أطمح إلى بناء مستقبل مشرق يجمع بين المعرفة واللغة وخدمة الإنسانية. كرست جهودي منذ المرحلة المبكرة في التعليم الإسلامي لدراسة اللغة العربية وآدابها؛ وبعد إتمام دراستي في معهد مانداري فلاحية الداخلي ومعهد تعمير الملة الفاضل، واصلت تعليمي الجامعي العالي في قسم اللغة العربية وآدابها بالجامعة الإسلامية، كوشتيا. وإلى جانب النشاط الأكاديمي والإبداعي، أشارك بفاعلية في المبادرات الاجتماعية والعمل التطوعي، سعياً لتوظيف العلم والمهارات في خدمة المجتمع ونفع الناس."
-    },
-    "degreeLabel": {
-      "bn": "মাস্টার্স ইন এরাবিক",
-      "en": "Master's in Arabic",
-      "ar": "ماجستير في اللغة العربية"
-    },
+    "avatarUrl": "/assets/ehsanul_haque_khan_nafis.png",
+    "arabicCalligraphy": "إحسان الحق خان نفيس",
     "currentInstitution": {
-      "bn": "ইসলামিক ইউনিভার্সিটি, কুষ্টিয়া",
       "en": "Islamic University, Kushtia",
+      "bn": "ইসলামিক ইউনিভার্সিটি, কুষ্টিয়া",
       "ar": "الجامعة الإسلامية، كوشتيا"
     },
-    "degreeStatus": {
-      "bn": "অনার্স - আরবি ভাষা ও সাহিত্য (২০২২–২০২৬)",
-      "en": "Honors - Arabic Language & Literature (2022–2026)",
-      "ar": "المرحلة الجامعية (مع مرتبة الشرف) - اللغة العربية وآدابها (2022–2026)"
+    "facebook": "https://www.facebook.com/ihsan1334",
+    "name": {
+      "ar": "إحسان الحق خان نفيس",
+      "bn": "এহসানুল হক খান নাফিস",
+      "en": "Ihsanul Haque Khan Nafis"
     },
-    "gpa": "",
-    "gpaScale": "",
     "academicHonors": {
-      "bn": "উচ্চশিক্ষা ও প্রাতিষ্ঠানিক ডিগ্রি",
       "en": "Higher Academic Studies & Degree",
+      "bn": "উচ্চশিক্ষা ও প্রাতিষ্ঠানিক ডিগ্রি",
       "ar": "التعليم العالي والدرجات الأكاديمية"
     },
-    "location": {
-      "bn": "লক্ষ্মীপুর, বাংলাদেশ",
-      "en": "Lakshmipur, Bangladesh",
-      "ar": "لاكشميبور، بنغلاديش"
-    },
-    "email": "ihsanul1334@gmail.com",
-    "phone": "+8801856741",
-    "whatsapp": "+8801856741",
-    "facebook": "https://www.facebook.com/ihsan1334",
-    "avatarUrl": "/assets/uploads/avatar-1789700071658.png",
+    "secondaryName": "Ehsanul Haque Khan Nafis",
     "philosophies": [
       {
+        "title": {
+          "ar": "المعرفة",
+          "bn": "জ্ঞান (Knowledge)",
+          "en": "Knowledge"
+        },
         "stage": {
           "bn": "ধাপ ১",
-          "en": "Stage 1",
-          "ar": "المرحلة الأولى"
-        },
-        "title": {
-          "bn": "জ্ঞান (Knowledge)",
-          "en": "Knowledge",
-          "ar": "المعرفة"
+          "ar": "المرحلة الأولى",
+          "en": "Stage 1"
         },
         "description": {
-          "bn": "",
           "en": "",
+          "bn": "",
           "ar": ""
         }
       },
       {
         "stage": {
-          "bn": "ধাপ ২",
           "en": "Stage 2",
-          "ar": "المرحلة الثانية"
-        },
-        "title": {
-          "bn": "ভাষা (Language)",
-          "en": "Language",
-          "ar": "اللغة"
+          "ar": "المرحلة الثانية",
+          "bn": "ধাপ ২"
         },
         "description": {
-          "bn": "",
           "en": "",
-          "ar": ""
+          "ar": "",
+          "bn": ""
+        },
+        "title": {
+          "en": "Language",
+          "bn": "ভাষা (Language)",
+          "ar": "اللغة"
         }
       },
       {
+        "title": {
+          "ar": "الإنجاز",
+          "bn": "অর্জন (Achievement)",
+          "en": "Achievement"
+        },
+        "description": {
+          "en": "",
+          "ar": "",
+          "bn": ""
+        },
         "stage": {
           "bn": "ধাপ ৪",
-          "en": "Stage 4",
-          "ar": "المرحلة الرابعة"
-        },
-        "title": {
-          "bn": "অর্জন (Achievement)",
-          "en": "Achievement",
-          "ar": "الإنجاز"
-        },
-        "description": {
-          "bn": "",
-          "en": "",
-          "ar": ""
+          "ar": "المرحلة الرابعة",
+          "en": "Stage 4"
         }
       },
       {
-        "stage": {
-          "bn": "ধাপ ৬",
-          "en": "Stage 6",
-          "ar": "المرحلة السادسة"
+        "description": {
+          "bn": "",
+          "ar": "",
+          "en": ""
         },
         "title": {
           "bn": "প্রভাব (Impact)",
-          "en": "Impact",
-          "ar": "الأثر"
+          "ar": "الأثر",
+          "en": "Impact"
         },
-        "description": {
-          "bn": "",
-          "en": "",
-          "ar": ""
+        "stage": {
+          "en": "Stage 6",
+          "bn": "ধাপ ৬",
+          "ar": "المرحلة السادسة"
         }
       }
-    ]
+    ],
+    "gpaScale": "",
+    "phone": "+8801856741",
+    "location": {
+      "en": "Lakshmipur, Bangladesh",
+      "ar": "لاكشميبور، بنغلاديش",
+      "bn": "লক্ষ্মীপুর, বাংলাদেশ"
+    },
+    "shortBio": {
+      "bn": "ইসলামী বিশ্ববিদ্যালয় কুষ্টিয়ার আরবি ভাষা ও সাহিত্য বিভাগের শিক্ষার্থী। উচ্চাঙ্গ আরবি ভাষাতত্ত্ব, পাবলিক স্পিকিং এবং স্বেচ্ছাসেবী কার্যক্রমে নিবেদিত।",
+      "ar": "طالب وباحث في قسم اللغة العربية وآدابها بالجامعة الإسلامية بكوشتيا، بنغلاديش. مكرس لعلوم اللسانيات العربية، والخطابة، والعمل التطوعي المجتمعي.",
+      "en": "Undergraduate scholar in the Department of Arabic Language & Literature at Islamic University, Kushtia. Dedicated to classical & modern Arabic linguistics, public speaking, and community service."
+    },
+    "rolesBadge": {
+      "en": "Educator • Translator • Activist",
+      "ar": "معلم • مترجم • ناشط",
+      "bn": "শিক্ষক • অনুবাদক • অ্যাক্টিভিস্ট"
+    },
+    "email": "ihsanul1334@gmail.com",
+    "whatsapp": "+8801856741",
+    "degreeLabel": {
+      "ar": "ماجستير في اللغة العربية",
+      "bn": "মাস্টার্স ইন এরাবিক",
+      "en": "Master's in Arabic"
+    },
+    "longBio": {
+      "en": "My vision is to build an impactful future through the harmonious blend of knowledge, language, and civic service. Dedicated to Arabic language and literary scholarship since early madrasa education, I completed my foundational studies at Mandari Falahia Dakhil Madrasa and Tamirul Millat Kamil Madrasa, followed by higher education in Arabic Language & Literature from Islamic University, Kushtia. Alongside academic and creative pursuits, I remain actively engaged in social welfare and voluntary initiatives, striving to channel knowledge and competencies toward the betterment of humanity.",
+      "bn": "জ্ঞান, ভাষা ও মানবসেবার সমন্বয়ে একটি সমৃদ্ধ ভবিষ্যৎ গড়াই আমার লক্ষ্য। মাদরাসা-শিক্ষাজীবন থেকে আরবি ভাষা ও সাহিত্যচর্চায় নিবেদিত। মান্দারী ফালাহিয়া দাখিল মাদরাসা ও তামিরুল মিল্লাত কামিল মাদরাসার শিক্ষাজীবন শেষে ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া থেকে আরবি ভাষা ও সাহিত্যে উচ্চশিক্ষা সম্পন্ন করেছি। একাডেমিক ও সৃজনশীল কর্মকাণ্ডের পাশাপাশি সামাজিক ও স্বেচ্ছাসেবী কার্যক্রমে সক্রিয় থেকে জ্ঞান ও দক্ষতাকে মানুষের কল্যাণে কাজে লাগাতে সচেষ্ট।",
+      "ar": "أطمح إلى بناء مستقبل مشرق يجمع بين المعرفة واللغة وخدمة الإنسانية. كرست جهودي منذ المرحلة المبكرة في التعليم الإسلامي لدراسة اللغة العربية وآدابها؛ وبعد إتمام دراستي في معهد مانداري فلاحية الداخلي ومعهد تعمير الملة الفاضل، واصلت تعليمي الجامعي العالي في قسم اللغة العربية وآدابها بالجامعة الإسلامية، كوشتيا. وإلى جانب النشاط الأكاديمي والإبداعي، أشارك بفاعلية في المبادرات الاجتماعية والعمل التطوعي، سعياً لتوظيف العلم والمهارات في خدمة المجتمع ونفع الناس."
+    },
+    "degreeStatus": {
+      "bn": "অনার্স - আরবি ভাষা ও সাহিত্য (২০২২–২০২৬)",
+      "ar": "المرحلة الجامعية (مع مرتبة الشرف) - اللغة العربية وآدابها (2022–2026)",
+      "en": "Honors - Arabic Language & Literature (2022–2026)"
+    },
+    "gpa": ""
   },
   "education": [
     {
-      "id": "edu-masters",
-      "degree": {
-        "bn": "মাস্টার্স - আরবি ভাষা ও সাহিত্য",
-        "en": "Master's - Arabic Language & Literature",
-        "ar": "ماجستير - اللغة العربية وآدابها"
-      },
-      "institution": {
-        "bn": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
-        "en": "Islamic University, Kushtia",
-        "ar": "الجامعة الإسلامية، كوشتيا"
-      },
-      "location": {
-        "bn": "কুষ্টিয়া, বাংলাদেশ",
-        "en": "Kushtia, Bangladesh",
-        "ar": "كوشتيا، بنغلاديش"
-      },
+      "order": 1,
       "period": "2026",
-      "grade": {
-        "bn": "",
-        "en": "",
-        "ar": ""
+      "location": {
+        "ar": "كوشتيا، بنغلاديش",
+        "bn": "কুষ্টিয়া, বাংলাদেশ",
+        "en": "Kushtia, Bangladesh"
       },
+      "id": "edu-masters",
       "isHonors": true,
-      "featured": true,
       "description": {
         "bn": "",
-        "en": "",
-        "ar": ""
+        "ar": "",
+        "en": ""
+      },
+      "featured": true,
+      "institution": {
+        "bn": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
+        "ar": "الجامعة الإسلامية، كوشتيا",
+        "en": "Islamic University, Kushtia"
+      },
+      "degree": {
+        "en": "Master's - Arabic Language & Literature",
+        "ar": "ماجستير - اللغة العربية وآدابها",
+        "bn": "মাস্টার্স - আরবি ভাষা ও সাহিত্য"
       },
       "translationStatus": {
         "bn": "published",
-        "en": "published",
-        "ar": "published"
+        "ar": "published",
+        "en": "published"
       },
-      "order": 1
+      "grade": {
+        "en": "",
+        "bn": "",
+        "ar": ""
+      }
     },
     {
-      "id": "edu-kamil",
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
+      },
+      "featured": false,
       "degree": {
-        "bn": "কামিল (হাদীস)",
         "en": "Kamil (Hadith)",
+        "bn": "কামিল (হাদীস)",
         "ar": "العالمية العالية (الحديث الشريف)"
       },
+      "order": 2,
+      "id": "edu-kamil",
       "institution": {
+        "ar": "معهد أوتار بادا العالي، دكا",
         "bn": "উত্তর বাড্ডা কামিল মাদরাসা, ঢাকা",
-        "en": "Uttar Badda Kamil Madrasa, Dhaka",
-        "ar": "معهد أوتار بادا العالي، دكا"
-      },
-      "location": {
-        "bn": "উত্তর বাড্ডা, ঢাকা",
-        "en": "Uttar Badda, Dhaka",
-        "ar": "أوتار بادا، دكا"
+        "en": "Uttar Badda Kamil Madrasa, Dhaka"
       },
       "period": "2026",
       "grade": {
         "bn": "",
-        "en": "",
-        "ar": ""
+        "ar": "",
+        "en": ""
       },
       "isHonors": false,
-      "featured": false,
       "description": {
+        "ar": "",
         "bn": "",
-        "en": "",
-        "ar": ""
-      },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      },
-      "order": 2
-    },
-    {
-      "id": "edu-1",
-      "degree": {
-        "bn": "অনার্স - আরবি ভাষা ও সাহিত্য",
-        "en": "Honors - Arabic Language & Literature",
-        "ar": "المرحلة الجامعية (مرتبة الشرف) في اللغة العربية وآدابها"
-      },
-      "institution": {
-        "bn": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
-        "en": "Islamic University, Kushtia",
-        "ar": "الجامعة الإسلامية، كوشتيا"
+        "en": ""
       },
       "location": {
-        "bn": "কুষ্টিয়া, বাংলাদেশ",
+        "en": "Uttar Badda, Dhaka",
+        "bn": "উত্তর বাড্ডা, ঢাকা",
+        "ar": "أوتار بادا، دكا"
+      }
+    },
+    {
+      "location": {
         "en": "Kushtia, Bangladesh",
-        "ar": "كوشتيا، بنغلاديش"
+        "ar": "كوشتيا، بنغلاديش",
+        "bn": "কুষ্টিয়া, বাংলাদেশ"
       },
       "period": "2022–2026",
-      "grade": {
-        "bn": "",
-        "en": "",
-        "ar": ""
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
       },
       "isHonors": true,
-      "featured": false,
+      "order": 3,
+      "grade": {
+        "en": "",
+        "ar": "",
+        "bn": ""
+      },
       "description": {
         "bn": "",
-        "en": "",
-        "ar": ""
+        "ar": "",
+        "en": ""
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
+      "featured": false,
+      "id": "edu-1",
+      "institution": {
+        "ar": "الجامعة الإسلامية، كوشتيا",
+        "bn": "ইসলামী বিশ্ববিদ্যালয়, কুষ্টিয়া",
+        "en": "Islamic University, Kushtia"
       },
-      "order": 3
+      "degree": {
+        "en": "Honors - Arabic Language & Literature",
+        "bn": "অনার্স - আরবি ভাষা ও সাহিত্য",
+        "ar": "المرحلة الجامعية (مرتبة الشرف) في اللغة العربية وآدابها"
+      }
     },
     {
-      "id": "edu-fazil",
+      "institution": {
+        "ar": "معهد كانشيركول الإسلامي الفاضل، جينيده",
+        "bn": "কাঁচেরকোল ইসলামিয়া ফাজিল মাদরাসা, ঝিনাইদহ",
+        "en": "Kancherkol Islamia Fazil Madrasa, Jhenaidah"
+      },
       "degree": {
         "bn": "ফাজিল",
-        "en": "Fazil (Bachelor Equivalent)",
-        "ar": "الفاضل (المرحلة الجامعية الإسلامية)"
+        "ar": "الفاضل (المرحلة الجامعية الإسلامية)",
+        "en": "Fazil (Bachelor Equivalent)"
       },
-      "institution": {
-        "bn": "কাঁচেরকোল ইসলামিয়া ফাজিল মাদরাসা, ঝিনাইদহ",
-        "en": "Kancherkol Islamia Fazil Madrasa, Jhenaidah",
-        "ar": "معهد كانشيركول الإسلامي الفاضل، جينيده"
-      },
-      "location": {
-        "bn": "ঝিনাইদহ, বাংলাদেশ",
-        "en": "Jhenaidah, Bangladesh",
-        "ar": "جينيده، بنغلاديش"
-      },
-      "period": "2024",
       "grade": {
-        "bn": "",
         "en": "",
-        "ar": ""
+        "ar": "",
+        "bn": ""
       },
-      "isHonors": false,
-      "featured": false,
       "description": {
         "bn": "",
-        "en": "",
-        "ar": ""
+        "ar": "",
+        "en": ""
       },
+      "featured": false,
+      "id": "edu-fazil",
       "translationStatus": {
         "bn": "published",
-        "en": "published",
-        "ar": "published"
+        "ar": "published",
+        "en": "published"
       },
-      "order": 4
+      "isHonors": false,
+      "location": {
+        "bn": "ঝিনাইদহ, বাংলাদেশ",
+        "ar": "جينيده، بنغلاديش",
+        "en": "Jhenaidah, Bangladesh"
+      },
+      "order": 4,
+      "period": "2024"
     },
     {
-      "id": "edu-2",
       "degree": {
         "bn": "আলিম (উচ্চ মাধ্যমিক সমমান)",
-        "en": "Alim (Higher Secondary Equivalent)",
-        "ar": "العالمية (شهادة الثانوية العامة الإسلامية)"
+        "ar": "العالمية (شهادة الثانوية العامة الإسلامية)",
+        "en": "Alim (Higher Secondary Equivalent)"
+      },
+      "description": {
+        "ar": "",
+        "bn": "",
+        "en": ""
+      },
+      "isHonors": false,
+      "grade": {
+        "en": "",
+        "bn": "",
+        "ar": ""
+      },
+      "id": "edu-2",
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
       },
       "institution": {
-        "bn": "তামিরুল মিল্লাত কামিল মাদরাসা",
         "en": "Tamirul Millat Kamil Madrasa",
-        "ar": "معهد تعمير الملة الفاضل"
+        "ar": "معهد تعمير الملة الفاضل",
+        "bn": "তামিরুল মিল্লাত কামিল মাদরাসা"
       },
       "location": {
         "bn": "টঙ্গী, গাজীপুর",
-        "en": "Tongi, Gazipur, Bangladesh",
-        "ar": "تونغي، غازيبور"
+        "ar": "تونغي، غازيبور",
+        "en": "Tongi, Gazipur, Bangladesh"
       },
-      "period": "2018–2021",
-      "grade": {
-        "bn": "",
-        "en": "",
-        "ar": ""
-      },
-      "isHonors": false,
+      "order": 5,
       "featured": false,
-      "description": {
-        "bn": "",
-        "en": "",
-        "ar": ""
-      },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      },
-      "order": 5
+      "period": "2018–2021"
     },
     {
-      "id": "edu-3",
-      "degree": {
-        "bn": "দাখিল (মাধ্যমিক সমমান)",
-        "en": "Dakhil (Secondary School Certificate Equivalent)",
-        "ar": "الداخلية (شهادة الإعدادية الإسلامية)"
-      },
+      "period": "2015–2018",
+      "order": 6,
       "institution": {
         "bn": "মান্দারী ইসলামিয়া আলিম মাদরাসা",
-        "en": "Mandari Islamia Alim Madrasa",
-        "ar": "معهد مانداري الإسلامي العالي"
+        "ar": "معهد مانداري الإسلامي العالي",
+        "en": "Mandari Islamia Alim Madrasa"
       },
       "location": {
-        "bn": "লক্ষ্মীপুর, বাংলাদেশ",
         "en": "Lakshmipur, Bangladesh",
+        "bn": "লক্ষ্মীপুর, বাংলাদেশ",
         "ar": "لاكشميبور، بنغلاديش"
       },
-      "period": "2015–2018",
-      "grade": {
-        "bn": "",
-        "en": "",
-        "ar": ""
-      },
       "isHonors": false,
-      "featured": false,
       "description": {
-        "bn": "",
         "en": "",
+        "bn": "",
         "ar": ""
       },
+      "id": "edu-3",
+      "featured": false,
       "translationStatus": {
-        "bn": "published",
         "en": "published",
+        "bn": "published",
         "ar": "published"
       },
-      "order": 6
+      "grade": {
+        "en": "",
+        "bn": "",
+        "ar": ""
+      },
+      "degree": {
+        "en": "Dakhil (Secondary School Certificate Equivalent)",
+        "bn": "দাখিল (মাধ্যমিক সমমান)",
+        "ar": "الداخلية (شهادة الإعدادية الإسلامية)"
+      }
     }
   ],
   "experience": [
     {
-      "id": "exp-1",
-      "role": {
-        "bn": "আরবি ভাষা গবেষক ও নির্দেশক",
-        "en": "Arabic Language Instructor & Scholarly Mentor",
-        "ar": "باحث وموجه في علوم اللغة العربية"
-      },
       "organization": {
         "bn": "ইসলামিক স্টাডিজ ফোরাম ও একাডেমি",
-        "en": "Islamic Studies Forum & Academic Circle",
-        "ar": "منتدى الدراسات الإسلامية واللغوية"
+        "ar": "منتدى الدراسات الإسلامية واللغوية",
+        "en": "Islamic Studies Forum & Academic Circle"
+      },
+      "order": 1,
+      "id": "exp-1",
+      "role": {
+        "ar": "باحث وموجه في علوم اللغة العربية",
+        "bn": "আরবি ভাষা গবেষক ও নির্দেশক",
+        "en": "Arabic Language Instructor & Scholarly Mentor"
+      },
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
       },
       "period": "২০২৩ – বর্তমান",
-      "location": {
-        "bn": "কুষ্টিয়া, বাংলাদেশ",
-        "en": "Kushtia, Bangladesh",
-        "ar": "كوشتيا، بنغلاديش"
-      },
       "description": {
         "bn": "জুনিয়র শিক্ষার্থীদের জন্য আরবি ব্যাকরণ (নাহু-সরফ) সহজীকরণ এবং আরবি ভাষায় সাবলীল বক্তব্য প্রদানের ওয়ার্কশপ পরিচালনা।",
-        "en": "Facilitating linguistic workshops on simplifying Arabic syntax (Nahw & Sarf) and fostering fluent Arabic oratory among undergraduate students.",
-        "ar": "تقديم ورش عمل متخصصة في تيسير النحو والصرف وتدريب الطلاب على الفصاحة والخطابة باللغة العربية."
+        "ar": "تقديم ورش عمل متخصصة في تيسير النحو والصرف وتدريب الطلاب على الفصاحة والخطابة باللغة العربية.",
+        "en": "Facilitating linguistic workshops on simplifying Arabic syntax (Nahw & Sarf) and fostering fluent Arabic oratory among undergraduate students."
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      },
-      "order": 1
+      "location": {
+        "en": "Kushtia, Bangladesh",
+        "bn": "কুষ্টিয়া, বাংলাদেশ",
+        "ar": "كوشتيا، بنغلاديش"
+      }
     },
     {
-      "id": "exp-2",
+      "period": "২০২২ – বর্তমান",
+      "order": 2,
+      "translationStatus": {
+        "ar": "published",
+        "bn": "published",
+        "en": "published"
+      },
       "role": {
         "bn": "সদস্য ও বক্তা",
-        "en": "Debater & Public Speaker",
-        "ar": "مناظر ومتحدث رسمي"
-      },
-      "organization": {
-        "bn": "ইউনিভার্সিটি ডিবেটিং সোসাইটি",
-        "en": "University Debating Society",
-        "ar": "نادي المناظرات الجامعي"
-      },
-      "period": "২০২২ – বর্তমান",
-      "location": {
-        "bn": "ইসলামী বিশ্ববিদ্যালয়",
-        "en": "Islamic University, Bangladesh",
-        "ar": "الجامعة الإسلامية، بنغلاديش"
+        "ar": "مناظر ومتحدث رسمي",
+        "en": "Debater & Public Speaker"
       },
       "description": {
-        "bn": "জাতীয় ও বিশ্ববিদ্যালয় পর্যায়ের আরবি ও বাংলা পাবলিক বিতর্ক ও বক্তৃতা সেশনে সক্রিয় প্রতিনিধিত্ব।",
         "en": "Actively participating and representing the institution in national and inter-university Arabic and Bengali debate circuits and public forums.",
+        "bn": "জাতীয় ও বিশ্ববিদ্যালয় পর্যায়ের আরবি ও বাংলা পাবলিক বিতর্ক ও বক্তৃতা সেশনে সক্রিয় প্রতিনিধিত্ব।",
         "ar": "المشاركة الفاعلة وتمثيل الكلية في المناظرات والندوات الخطابية باللغتين العربية والبنجالية."
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
+      "location": {
+        "en": "Islamic University, Bangladesh",
+        "bn": "ইসলামী বিশ্ববিদ্যালয়",
+        "ar": "الجامعة الإسلامية، بنغلاديش"
       },
-      "order": 2
+      "organization": {
+        "en": "University Debating Society",
+        "bn": "ইউনিভার্সিটি ডিবেটিং সোসাইটি",
+        "ar": "نادي المناظرات الجامعي"
+      },
+      "id": "exp-2"
     }
   ],
   "activities": [
     {
-      "id": "act-1",
+      "description": {
+        "ar": "قيادة حملات توزيع المساعدات الإغاثية والكسوة الشتوية ودعم الطلاب المحتاجين في منطقة لاكشميبور.",
+        "bn": "লক্ষ্মীপুর ও দক্ষিণ অঞ্চলে দুর্যোগকালে ত্রাণ বিতরণ, শিক্ষাসামগ্রী বণ্টন এবং শীতবস্ত্র প্রদান অভিযানে নেতৃত্ব প্রদান।",
+        "en": "Leading disaster relief mobilization, winter warmth distribution, and educational support for disadvantaged students across Lakshmipur and surrounding regions."
+      },
+      "period": "২০২০ – বর্তমান",
+      "order": 1,
+      "category": "volunteering",
       "title": {
         "bn": "সামাজিক সচেতনতা ও ত্রাণ কার্যক্রম",
-        "en": "Community Outreach & Relief Initiatives",
-        "ar": "حملات الإغاثة والتوعية المجتمعية"
+        "ar": "حملات الإغاثة والتوعية المجتمعية",
+        "en": "Community Outreach & Relief Initiatives"
       },
       "organization": {
         "bn": "ইউথ ভলান্টিয়ার্স নেটওয়ার্ক",
-        "en": "Youth Volunteers Network",
-        "ar": "شبكة المتطوعين الشباب"
+        "ar": "شبكة المتطوعين الشباب",
+        "en": "Youth Volunteers Network"
       },
       "role": {
+        "ar": "المنسق الرئيسي للعمل التطوعي",
         "bn": "প্রধান সমন্বয়কারী",
-        "en": "Lead Volunteer Coordinator",
-        "ar": "المنسق الرئيسي للعمل التطوعي"
+        "en": "Lead Volunteer Coordinator"
       },
-      "period": "২০২০ – বর্তমান",
-      "description": {
-        "bn": "লক্ষ্মীপুর ও দক্ষিণ অঞ্চলে দুর্যোগকালে ত্রাণ বিতরণ, শিক্ষাসামগ্রী বণ্টন এবং শীতবস্ত্র প্রদান অভিযানে নেতৃত্ব প্রদান।",
-        "en": "Leading disaster relief mobilization, winter warmth distribution, and educational support for disadvantaged students across Lakshmipur and surrounding regions.",
-        "ar": "قيادة حملات توزيع المساعدات الإغاثية والكسوة الشتوية ودعم الطلاب المحتاجين في منطقة لاكشميبور."
-      },
-      "category": "volunteering",
       "translationStatus": {
-        "bn": "published",
         "en": "published",
+        "bn": "published",
         "ar": "published"
       },
-      "order": 1
+      "id": "act-1"
     },
     {
-      "id": "act-2",
-      "title": {
-        "bn": "আরবি ভাষা প্রচার ও শিক্ষামূলক বক্তৃতা",
-        "en": "Arabic Literacy & Oratory Motivation Drive",
-        "ar": "مبادرة نشر الوعي باللسان العربي والخطابة"
-      },
-      "organization": {
-        "bn": "সেন্টার ফর ল্যাঙ্গুয়েজ স্টাডিজ",
-        "en": "Center for Language Studies",
-        "ar": "مركز الدراسات اللغوية"
-      },
-      "role": {
-        "bn": "অতিথি বক্তা",
-        "en": "Guest Speaker",
-        "ar": "متحدث ضيف"
-      },
       "period": "২০২২ – বর্তমান",
-      "description": {
-        "bn": "তরুণ শিক্ষার্থীদের আরবি ভাষা শেখার গুরুত্ব ও পদ্ধতি নিয়ে বিভিন্ন শিক্ষাপ্রতিষ্ঠানে উদ্বুদ্ধকরণ বক্তব্য প্রদান।",
-        "en": "Delivering motivational sessions across regional schools and seminaries on methodologies to master Arabic language and global communication.",
-        "ar": "إلقاء محاضرات تحفيزية للشباب والطلاب حول سبل اكتساب الملكة اللغوية وأهمية اللغة العربية عالمياً."
-      },
-      "category": "speaking",
+      "order": 2,
       "translationStatus": {
-        "bn": "published",
         "en": "published",
+        "bn": "published",
         "ar": "published"
       },
-      "order": 2
+      "description": {
+        "ar": "إلقاء محاضرات تحفيزية للشباب والطلاب حول سبل اكتساب الملكة اللغوية وأهمية اللغة العربية عالمياً.",
+        "bn": "তরুণ শিক্ষার্থীদের আরবি ভাষা শেখার গুরুত্ব ও পদ্ধতি নিয়ে বিভিন্ন শিক্ষাপ্রতিষ্ঠানে উদ্বুদ্ধকরণ বক্তব্য প্রদান।",
+        "en": "Delivering motivational sessions across regional schools and seminaries on methodologies to master Arabic language and global communication."
+      },
+      "title": {
+        "ar": "مبادرة نشر الوعي باللسان العربي والخطابة",
+        "bn": "আরবি ভাষা প্রচার ও শিক্ষামূলক বক্তৃতা",
+        "en": "Arabic Literacy & Oratory Motivation Drive"
+      },
+      "id": "act-2",
+      "role": {
+        "en": "Guest Speaker",
+        "ar": "متحدث ضيف",
+        "bn": "অতিথি বক্তা"
+      },
+      "category": "speaking",
+      "organization": {
+        "en": "Center for Language Studies",
+        "ar": "مركز الدراسات اللغوية",
+        "bn": "সেন্টার ফর ল্যাঙ্গুয়েজ স্টাডিজ"
+      }
     }
   ],
   "skills": [
     {
-      "id": "sk-1",
+      "description": {
+        "ar": "تمكن متقدم من علوم النحو والصرف والبيان والبديع ودراسة متون الأدب العربي.",
+        "bn": "ধ্রুপদী ও আধুনিক আরবি ব্যাকরণ (নাহু-সরফ), অলংকারশাস্ত্র (বালাগাহ) এবং গ্রন্থ পর্যালোচনা।",
+        "en": "Advanced mastery in classical & contemporary Arabic syntax, morphology, and rhetorical analysis."
+      },
       "name": {
         "bn": "আরবি সাহিত্য ও ভাষাতত্ত্ব",
-        "en": "Arabic Literature & Linguistics",
-        "ar": "الأدب واللسانيات العربية"
+        "ar": "الأدب واللسانيات العربية",
+        "en": "Arabic Literature & Linguistics"
       },
-      "category": {
-        "bn": "ভাষা ও সাহিত্য",
-        "en": "Linguistics & Literature",
-        "ar": "اللسانيات والأدب"
-      },
+      "id": "sk-1",
       "proficiency": 96,
-      "highlight": true,
-      "description": {
-        "bn": "ধ্রুপদী ও আধুনিক আরবি ব্যাকরণ (নাহু-সরফ), অলংকারশাস্ত্র (বালাগাহ) এবং গ্রন্থ পর্যালোচনা।",
-        "en": "Advanced mastery in classical & contemporary Arabic syntax, morphology, and rhetorical analysis.",
-        "ar": "تمكن متقدم من علوم النحو والصرف والبيان والبديع ودراسة متون الأدب العربي."
+      "category": {
+        "ar": "اللسانيات والأدب",
+        "bn": "ভাষা ও সাহিত্য",
+        "en": "Linguistics & Literature"
       },
       "translationStatus": {
+        "ar": "published",
         "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+        "en": "published"
+      },
+      "highlight": true
     },
     {
-      "id": "sk-2",
       "name": {
-        "bn": "পাবলিক স্পিকিং ও বাগ্মিতা",
         "en": "Public Speaking & Eloquence",
-        "ar": "الخطابة وفن الإلقاء والبيان"
-      },
-      "category": {
-        "bn": "যোগাযোগ ও উপস্থাপন",
-        "en": "Communication & Oratory",
-        "ar": "التواصل والخطابة"
+        "ar": "الخطابة وفن الإلقاء والبيان",
+        "bn": "পাবলিক স্পিকিং ও বাগ্মিতা"
       },
       "proficiency": 92,
       "highlight": true,
+      "translationStatus": {
+        "ar": "published",
+        "bn": "published",
+        "en": "published"
+      },
+      "category": {
+        "en": "Communication & Oratory",
+        "bn": "যোগাযোগ ও উপস্থাপন",
+        "ar": "التواصل والخطابة"
+      },
       "description": {
         "bn": "সাবলীল মঞ্চ উপস্থাপনা, প্রত্যুৎপন্নমতিত্ব এবং যুক্তিভিত্তিক বক্তৃতা।",
-        "en": "Persuasive platform delivery, charismatic presence, and structured rhetorical argument.",
-        "ar": "إلقاء خطابي مؤثر، وحضور منصة واثق، وحوار إقناعي رصين."
+        "ar": "إلقاء خطابي مؤثر، وحضور منصة واثق، وحوار إقناعي رصين.",
+        "en": "Persuasive platform delivery, charismatic presence, and structured rhetorical argument."
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+      "id": "sk-2"
     },
     {
-      "id": "sk-3",
       "name": {
         "bn": "আরবি ও বাংলা বিতর্ক",
-        "en": "Arabic & Bengali Debating",
-        "ar": "المناظرات الفكرية باللغتين"
-      },
-      "category": {
-        "bn": "যুক্তি ও বিশ্লেষণ",
-        "en": "Logic & Critical Thinking",
-        "ar": "المنطق والمناظرة"
+        "ar": "المناظرات الفكرية باللغتين",
+        "en": "Arabic & Bengali Debating"
       },
       "proficiency": 90,
-      "highlight": true,
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
+      },
+      "category": {
+        "en": "Logic & Critical Thinking",
+        "bn": "যুক্তি ও বিশ্লেষণ",
+        "ar": "المنطق والمناظرة"
+      },
       "description": {
-        "bn": "সংসদীয় ও সনাতনী বিতর্কে গঠনমূলক যুক্তি উপস্থাপন এবং তাৎক্ষণিক খণ্ডন।",
         "en": "Constructive refutation, policy argumentation, and parliamentary debate proficiency.",
+        "bn": "সংসদীয় ও সনাতনী বিতর্কে গঠনমূলক যুক্তি উপস্থাপন এবং তাৎক্ষণিক খণ্ডন।",
         "ar": "بناء الحجج المنطقية، والتفنيد السريع، والمناظرات البرلمانية والأكاديمية."
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+      "highlight": true,
+      "id": "sk-3"
     },
     {
-      "id": "sk-4",
-      "name": {
-        "bn": "একাডেমিক গবেষণা ও নিবন্ধ লিখন",
-        "en": "Academic Research & Scholarly Writing",
-        "ar": "البحث العلمي والكتابة الأكاديمية"
-      },
+      "highlight": false,
       "category": {
-        "bn": "গবেষণা",
         "en": "Research & Scholarly",
+        "bn": "গবেষণা",
         "ar": "البحث والتوثيق"
       },
-      "proficiency": 88,
-      "highlight": false,
-      "description": {
-        "bn": "আরবি উৎস পর্যালোচনা, গ্রন্থপঞ্জি প্রণয়ন এবং তুলনামূলক বিশ্লেষণ।",
-        "en": "Source evaluation, Arabic bibliographical collation, and comparative textual analysis.",
-        "ar": "تحقيق النصوص والمصادر، وتحليل المتون اللغوية بدقة علمية."
-      },
       "translationStatus": {
-        "bn": "published",
         "en": "published",
-        "ar": "published"
-      }
+        "ar": "published",
+        "bn": "published"
+      },
+      "description": {
+        "ar": "تحقيق النصوص والمصادر، وتحليل المتون اللغوية بدقة علمية.",
+        "bn": "আরবি উৎস পর্যালোচনা, গ্রন্থপঞ্জি প্রণয়ন এবং তুলনামূলক বিশ্লেষণ।",
+        "en": "Source evaluation, Arabic bibliographical collation, and comparative textual analysis."
+      },
+      "name": {
+        "ar": "البحث العلمي والكتابة الأكاديمية",
+        "bn": "একাডেমিক গবেষণা ও নিবন্ধ লিখন",
+        "en": "Academic Research & Scholarly Writing"
+      },
+      "proficiency": 88,
+      "id": "sk-4"
     },
     {
-      "id": "sk-5",
-      "name": {
-        "bn": "স্বেচ্ছাসেবী দল পরিচালনা ও নেতৃত্ব",
-        "en": "Volunteer Leadership & Social Mobilization",
-        "ar": "القيادة التطوعية والتنظيم المجتمعي"
-      },
-      "category": {
-        "bn": "নেতৃত্ব",
-        "en": "Leadership",
-        "ar": "القيادة"
-      },
-      "proficiency": 94,
       "highlight": true,
+      "category": {
+        "en": "Leadership",
+        "ar": "القيادة",
+        "bn": "নেতৃত্ব"
+      },
+      "id": "sk-5",
       "description": {
-        "bn": "দুর্যোগকালীন উদ্ধার, ত্রাণ বিতরণ এবং যুব উন্নয়ন কর্মসূচি সমন্বয়।",
         "en": "Crisis coordination, community relief efforts, and youth civic engagement.",
-        "ar": "تنسيق الفرق التطوعية، وإدارة المبادرات الإنسانية والتنموية."
+        "ar": "تنسيق الفرق التطوعية، وإدارة المبادرات الإنسانية والتنموية.",
+        "bn": "দুর্যোগকালীন উদ্ধার, ত্রাণ বিতরণ এবং যুব উন্নয়ন কর্মসূচি সমন্বয়।"
       },
       "translationStatus": {
-        "bn": "published",
         "en": "published",
-        "ar": "published"
-      }
+        "ar": "published",
+        "bn": "published"
+      },
+      "name": {
+        "en": "Volunteer Leadership & Social Mobilization",
+        "ar": "القيادة التطوعية والتنظيم المجتمعي",
+        "bn": "স্বেচ্ছাসেবী দল পরিচালনা ও নেতৃত্ব"
+      },
+      "proficiency": 94
     }
   ],
   "languages": [
     {
       "id": "lang-1",
-      "language": {
-        "bn": "বাংলা (Bangla)",
-        "en": "Bengali (Bangla)",
-        "ar": "اللغة البنغالية"
-      },
-      "level": {
-        "bn": "মাতৃভাষা (Native Fluency)",
-        "en": "Native Fluency",
-        "ar": "اللغة الأم (طلاقة كاملة)"
-      },
-      "percentage": 100,
-      "badge": {
-        "bn": "মাতৃভাষা",
-        "en": "Native",
-        "ar": "اللغة الأم"
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
       },
       "description": {
-        "bn": "উচ্চমানের সাহিত্যিক প্রকাশ, বাকপটুতা এবং প্রাতিষ্ঠানিক যোগাযোগে পরম দক্ষতা।",
         "en": "Complete mastery in literary expression, analytical writing, and native eloquence.",
+        "bn": "উচ্চমানের সাহিত্যিক প্রকাশ, বাকপটুতা এবং প্রাতিষ্ঠানিক যোগাযোগে পরম দক্ষতা।",
         "ar": "إتقان تام للبيان الأدبي والكتابة الرسمية والفصاحة اللغوية."
       },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
-    },
-    {
-      "id": "lang-2",
-      "language": {
-        "bn": "العربية (Arabic)",
-        "en": "Arabic (العربية)",
-        "ar": "اللغة العربية الفصحى"
+      "badge": {
+        "ar": "اللغة الأم",
+        "bn": "মাতৃভাষা",
+        "en": "Native"
       },
       "level": {
+        "ar": "اللغة الأم (طلاقة كاملة)",
+        "bn": "মাতৃভাষা (Native Fluency)",
+        "en": "Native Fluency"
+      },
+      "language": {
+        "en": "Bengali (Bangla)",
+        "ar": "اللغة البنغالية",
+        "bn": "বাংলা (Bangla)"
+      },
+      "percentage": 100
+    },
+    {
+      "language": {
+        "en": "Arabic (العربية)",
+        "ar": "اللغة العربية الفصحى",
+        "bn": "العربية (Arabic)"
+      },
+      "level": {
+        "ar": "إتقان أكاديمي وأدبي رفيع المستوى",
         "bn": "উচ্চাঙ্গ সাহিত্যিক ও প্রাতিষ্ঠানিক দক্ষতা (Academic & Literary Mastery)",
-        "en": "Academic, Classical & Modern Standard Mastery",
-        "ar": "إتقان أكاديمي وأدبي رفيع المستوى"
-      },
-      "percentage": 95,
-      "badge": {
-        "bn": "পাণ্ডিত্যপূর্ণ দক্ষতা",
-        "en": "Scholarly Fluency",
-        "ar": "إتقان أكاديمي"
-      },
-      "description": {
-        "bn": "ধ্রুপদী ও আধুনিক প্রমিত আরবি ভাষায় সাবলীল বক্তব্য, বিতর্ক ও উচ্চতর গবেষণা পরিচালনা।",
-        "en": "Fluent public oration, debate, academic research, and deep classical-modern textual command.",
-        "ar": "فصاحة تامة في التحدث، والمناظرة، والبحث العلمي في أصول التراث العربي واللسانيات المعاصرة."
+        "en": "Academic, Classical & Modern Standard Mastery"
       },
       "translationStatus": {
-        "bn": "published",
         "en": "published",
+        "bn": "published",
         "ar": "published"
+      },
+      "badge": {
+        "en": "Scholarly Fluency",
+        "bn": "পাণ্ডিত্যপূর্ণ দক্ষতা",
+        "ar": "إتقان أكاديمي"
+      },
+      "percentage": 95,
+      "id": "lang-2",
+      "description": {
+        "en": "Fluent public oration, debate, academic research, and deep classical-modern textual command.",
+        "ar": "فصاحة تامة في التحدث، والمناظرة، والبحث العلمي في أصول التراث العربي واللسانيات المعاصرة.",
+        "bn": "ধ্রুপদী ও আধুনিক প্রমিত আরবি ভাষায় সাবলীল বক্তব্য, বিতর্ক ও উচ্চতর গবেষণা পরিচালনা।"
       }
     },
     {
+      "translationStatus": {
+        "en": "published",
+        "bn": "published",
+        "ar": "published"
+      },
+      "description": {
+        "en": "Fluent academic discourse, cross-cultural communication, and technical presentation.",
+        "bn": "আন্তর্জাতিক যোগাযোগ, একাডেমিক গবেষণা ও উপস্থাপনায় সাবলীল দক্ষতা।",
+        "ar": "تواصل مهني فعال، وقدرة ممتازة على البحث الأكاديمي والعرض التقديمي الدولي."
+      },
+      "badge": {
+        "en": "Professional",
+        "ar": "كفاءة مهنية",
+        "bn": "পেশাগত দক্ষতা"
+      },
       "id": "lang-3",
       "language": {
         "bn": "English (ইংরেজি)",
-        "en": "English",
-        "ar": "اللغة الإنجليزية"
-      },
-      "level": {
-        "bn": "পেশাগত ও প্রাতিষ্ঠানিক কর্মদক্ষতা (Professional Working Proficiency)",
-        "en": "Professional Working Proficiency",
-        "ar": "كفاءة مهنية وأكاديمية متقدمة"
+        "ar": "اللغة الإنجليزية",
+        "en": "English"
       },
       "percentage": 85,
-      "badge": {
-        "bn": "পেশাগত দক্ষতা",
-        "en": "Professional",
-        "ar": "كفاءة مهنية"
-      },
-      "description": {
-        "bn": "আন্তর্জাতিক যোগাযোগ, একাডেমিক গবেষণা ও উপস্থাপনায় সাবলীল দক্ষতা।",
-        "en": "Fluent academic discourse, cross-cultural communication, and technical presentation.",
-        "ar": "تواصل مهني فعال، وقدرة ممتازة على البحث الأكاديمي والعرض التقديمي الدولي."
-      },
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
+      "level": {
+        "bn": "পেশাগত ও প্রাতিষ্ঠানিক কর্মদক্ষতা (Professional Working Proficiency)",
+        "ar": "كفاءة مهنية وأكاديمية متقدمة",
+        "en": "Professional Working Proficiency"
       }
     }
   ],
   "awards": [
     {
-      "id": "awd-1",
-      "title": {
-        "bn": "আরবি বক্তৃতা ও বিতর্ক প্রতিযোগিতা - চ্যাম্পিয়ন",
-        "en": "Arabic Oratory & Debate Championship - First Place",
-        "ar": "بطولة الخطابة والمناظرة باللغة العربية - المركز الأول"
+      "organizer": {
+        "bn": "আরবি ভাষা ও সাহিত্য বিভাগ, ইসলামী বিশ্ববিদ্যালয়",
+        "ar": "قسم اللغة العربية وآدابها، الجامعة الإسلامية",
+        "en": "Department of Arabic Language & Literature, Islamic University"
+      },
+      "iconType": "trophy",
+      "competition": {
+        "ar": "المناظرة الوطنية بمناسبة اليوم العالمي للغة العربية",
+        "bn": "বিশ্ব আরবি ভাষা দিবস উপলক্ষ্যে জাতীয় বিতর্ক প্রতিযোগিতা",
+        "en": "National Arabic Debate Festival (World Arabic Language Day)"
       },
       "position": {
         "bn": "১ম স্থান / চ্যাম্পিয়ন",
-        "en": "Champion (1st Place)",
-        "ar": "المركز الأول (بطل المسابقة)"
+        "ar": "المركز الأول (بطل المسابقة)",
+        "en": "Champion (1st Place)"
       },
-      "competition": {
-        "bn": "বিশ্ব আরবি ভাষা দিবস উপলক্ষ্যে জাতীয় বিতর্ক প্রতিযোগিতা",
-        "en": "National Arabic Debate Festival (World Arabic Language Day)",
-        "ar": "المناظرة الوطنية بمناسبة اليوم العالمي للغة العربية"
+      "title": {
+        "bn": "আরবি বক্তৃতা ও বিতর্ক প্রতিযোগিতা - চ্যাম্পিয়ন",
+        "ar": "بطولة الخطابة والمناظرة باللغة العربية - المركز الأول",
+        "en": "Arabic Oratory & Debate Championship - First Place"
       },
-      "organizer": {
-        "bn": "আরবি ভাষা ও সাহিত্য বিভাগ, ইসলামী বিশ্ববিদ্যালয়",
-        "en": "Department of Arabic Language & Literature, Islamic University",
-        "ar": "قسم اللغة العربية وآدابها، الجامعة الإسلامية"
-      },
-      "year": "2023",
-      "description": {
-        "bn": "বাকপটুতা, গভীর ভাষাতাত্ত্বিক যুক্তি এবং ধ্রুপদী আরবির সাবলীল প্রয়োগের জন্য শ্রেষ্ঠ বক্তার সম্মাননা অর্জন।",
-        "en": "Awarded highest honors for rhetorical eloquence, rigorous linguistic logic, and effortless classical delivery.",
-        "ar": "نيل كأس البطولة لأفضل متحدث بفضل الفصاحة وقوة الدليل والبيان العربي السليم."
-      },
-      "iconType": "trophy",
       "translationStatus": {
+        "ar": "published",
         "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+        "en": "published"
+      },
+      "description": {
+        "ar": "نيل كأس البطولة لأفضل متحدث بفضل الفصاحة وقوة الدليل والبيان العربي السليم.",
+        "bn": "বাকপটুতা, গভীর ভাষাতাত্ত্বিক যুক্তি এবং ধ্রুপদী আরবির সাবলীল প্রয়োগের জন্য শ্রেষ্ঠ বক্তার সম্মাননা অর্জন।",
+        "en": "Awarded highest honors for rhetorical eloquence, rigorous linguistic logic, and effortless classical delivery."
+      },
+      "id": "awd-1",
+      "year": "2023"
     },
     {
-      "id": "awd-2",
-      "title": {
-        "bn": "একাডেমিক এক্সিলেন্স অ্যাওয়ার্ড",
-        "en": "Academic Distinction Award",
-        "ar": "جائزة التفوق الأكاديمي"
+      "iconType": "medal",
+      "competition": {
+        "ar": "حفل تكريم المتميزين أكاديمياً سنوياً",
+        "bn": "বার্ষিক মেধা ও চরিত্র মূল্যায়ন সনদ",
+        "en": "Annual Academic Merit & Scholar Recognition"
       },
       "position": {
-        "bn": "সেরা ৩ মেধাবী শিক্ষার্থী সম্মাননা",
         "en": "Top 3 Merit Honor",
+        "bn": "সেরা ৩ মেধাবী শিক্ষার্থী সম্মাননা",
         "ar": "تكريم المتفوقين في المراتب الأولى"
       },
-      "competition": {
-        "bn": "বার্ষিক মেধা ও চরিত্র মূল্যায়ন সনদ",
-        "en": "Annual Academic Merit & Scholar Recognition",
-        "ar": "حفل تكريم المتميزين أكاديمياً سنوياً"
-      },
       "organizer": {
+        "ar": "معهد تعمير الملة الفاضل",
         "bn": "তামিরুল মিল্লাত কামিল মাদরাসা",
-        "en": "Tamirul Millat Kamil Madrasa",
-        "ar": "معهد تعمير الملة الفاضل"
+        "en": "Tamirul Millat Kamil Madrasa"
       },
-      "year": "2021",
+      "id": "awd-2",
       "description": {
-        "bn": "আলিম পরীক্ষায় কৃতিত্বপূর্ণ ফলাফল এবং প্রশংসনীয় নৈতিক আচরণের স্বীকৃতিস্বরূপ প্রদান করা হয়।",
         "en": "Recognized for achieving exceptional academic merit in Alim examinations alongside ethical leadership.",
+        "bn": "আলিম পরীক্ষায় কৃতিত্বপূর্ণ ফলাফল এবং প্রশংসনীয় নৈতিক আচরণের স্বীকৃতিস্বরূপ প্রদান করা হয়।",
         "ar": "تكريم تقديراً للتميز الدراسي في شهادة العالمية والتحلي بالانضباط الأخلاقي المثالي."
       },
-      "iconType": "medal",
+      "year": "2021",
+      "title": {
+        "en": "Academic Distinction Award",
+        "bn": "একাডেমিক এক্সিলেন্স অ্যাওয়ার্ড",
+        "ar": "جائزة التفوق الأكاديمي"
+      },
       "translationStatus": {
         "bn": "published",
-        "en": "published",
-        "ar": "published"
+        "ar": "published",
+        "en": "published"
       }
     },
     {
-      "id": "awd-3",
-      "title": {
-        "bn": "শ্রেষ্ঠ সমাজসেবী যুব সম্মাননা",
-        "en": "Exemplary Youth Community Service Honor",
-        "ar": "وسام الشاب المتميز في الخدمة المجتمعية"
-      },
-      "position": {
-        "bn": "বিশেষ স্বীকৃতি স্মারক",
-        "en": "Special Recognition Plaque",
-        "ar": "درع التقدير الخاص"
-      },
-      "competition": {
-        "bn": "দক্ষিণাঞ্চল সমাজ কল্যাণ মূল্যায়ন",
-        "en": "Regional Civic & Youth Welfare Assembly",
-        "ar": "المؤتمر الإقليمي للعمل التطوعي الشبابي"
-      },
-      "organizer": {
-        "bn": "লক্ষ্মীপুর জেলা মানবসেবা ফোরাম",
-        "en": "Lakshmipur District Humanitarian Welfare Forum",
-        "ar": "منتدى لاكشميبور للرعاية الإنسانية"
-      },
-      "year": "2022",
       "description": {
-        "bn": "দুর্যোগকালীন মানুষের পাশে দাঁড়ানো এবং যুবসমাজকে শিক্ষার আলোয় উদ্বুদ্ধ করার স্বীকৃতিস্বরূপ ভূষিত।",
         "en": "Conferred for heroic relief logistics and inspiring youth participation in literacy drives.",
+        "bn": "দুর্যোগকালীন মানুষের পাশে দাঁড়ানো এবং যুবসমাজকে শিক্ষার আলোয় উদ্বুদ্ধ করার স্বীকৃতিস্বরূপ ভূষিত।",
         "ar": "منح تقديراً للجهود البارزة في إغاثة المتضررين وتشجيع الأنشطة التعليمية التطوعية."
       },
-      "iconType": "star",
+      "title": {
+        "en": "Exemplary Youth Community Service Honor",
+        "bn": "শ্রেষ্ঠ সমাজসেবী যুব সম্মাননা",
+        "ar": "وسام الشاب المتميز في الخدمة المجتمعية"
+      },
+      "year": "2022",
       "translationStatus": {
+        "ar": "published",
         "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+        "en": "published"
+      },
+      "competition": {
+        "en": "Regional Civic & Youth Welfare Assembly",
+        "bn": "দক্ষিণাঞ্চল সমাজ কল্যাণ মূল্যায়ন",
+        "ar": "المؤتمر الإقليمي للعمل التطوعي الشبابي"
+      },
+      "iconType": "star",
+      "organizer": {
+        "en": "Lakshmipur District Humanitarian Welfare Forum",
+        "bn": "লক্ষ্মীপুর জেলা মানবসেবা ফোরাম",
+        "ar": "منتدى لاكشميبور للرعاية الإنسانية"
+      },
+      "position": {
+        "en": "Special Recognition Plaque",
+        "bn": "বিশেষ স্বীকৃতি স্মারক",
+        "ar": "درع التقدير الخاص"
+      },
+      "id": "awd-3"
     }
   ],
   "articles": [
     {
+      "seoTitle": {
+        "ar": "أهمية دراسة اللغة العربية - إحسان الحق خان نفيس",
+        "bn": "আধুনিক যুগে আরবি ভাষা চর্চার গুরুত্ব - এহসানুল হক খান নাফিস",
+        "en": "Significance of Arabic Studies - Ehsanul Haque Khan Nafis"
+      },
+      "featuredImage": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=800&auto=format&fit=crop",
+      "readingTime": "4 min read",
+      "seoDescription": {
+        "en": "Scholarly analysis by Ehsanul Haque Khan Nafis on the geopolitical and intellectual depth of modern Arabic linguistics.",
+        "bn": "আন্তর্জাতিক কূটনীতি, সাহিত্য ও উচ্চশিক্ষায় আরবি ভাষার গভীর প্রভাব নিয়ে এহসানুল হক খান নাফিসের চিন্তাশীল বিশ্লেষণ।",
+        "ar": "قراءة تحليلية رصينة للباحث إحسان الحق خان نفيس حول الأبعاد الحضارية واللغوية للسان العربي في العصر الراهن."
+      },
       "id": "art-1",
-      "title": {
-        "bn": "আধুনিক যুগে আরবি ভাষা চর্চার গুরুত্ব ও সম্ভাবনা",
-        "en": "The Significance and Global Horizon of Arabic Language Studies",
-        "ar": "أهمية وآفاق دراسة اللغة العربية في العصر الحديث"
-      },
       "excerpt": {
-        "bn": "আন্তর্জাতিক কূটনীতি, সাহিত্য ও ধর্মতাত্ত্বিক ঐতিহ্যের সেতুবন্ধনে আরবি ভাষার কালজয়ী প্রভাব এবং তরুণ শিক্ষার্থীদের সম্ভাবনা।",
         "en": "Exploring the timeless relevance of Arabic as a global bridge between diplomacy, timeless literature, and theology.",
-        "ar": "استكشاف الأثر الخالد للغة العربية كجسر عالمي يربط بين الدبلوماسية والأدب والتراث المعرفي."
+        "ar": "استكشاف الأثر الخالد للغة العربية كجسر عالمي يربط بين الدبلوماسية والأدب والتراث المعرفي.",
+        "bn": "আন্তর্জাতিক কূটনীতি, সাহিত্য ও ধর্মতাত্ত্বিক ঐতিহ্যের সেতুবন্ধনে আরবি ভাষার কালজয়ী প্রভাব এবং তরুণ শিক্ষার্থীদের সম্ভাবনা।"
       },
-      "content": {
-        "bn": "আরবি কেবল একটি ধর্মীয় ভাষা নয়; বরং এটি বিশ্বের অন্যতম প্রভাবশালী আন্তর্জাতিক ভাষা। জাতিসংঘে স্বীকৃত শীর্ষ ৬টি দাপ্তরিক ভাষার একটি হিসেবে এর ভূ-রাজনৈতিক ও অর্থনৈতিক গুরুত্ব অপরিসীম। বিশেষ করে মধ্যপ্রাচ্য ও বিশ্বমঞ্চে যোগাযোগের ক্ষেত্রে আরবি ভাষার দক্ষতা অর্জন তরুণ প্রজন্মের জন্য অপরিসীম সম্ভাবনার দুয়ার উন্মোচন করে। সাহিত্যের দিক থেকে এর বালাগাহ ও অলংকারবিদ্যা মানুষের চিন্তাশক্তিকে শাণিত করে।",
-        "en": "Arabic is far beyond an ecclesiastical medium; it stands as one of the most intellectually vibrant and diplomatically vital tongues globally. Being one of the United Nations six official languages, fluency in Arabic equips scholars and diplomats with profound cultural capital and cross-continental insight. Its rhetorical precision (Balagah) cultivates unmatched intellectual acumen.",
-        "ar": "ليست اللغة العربية مجرد لغة مقدسة، بل هي إحدى أكثر اللغات حيوية وتأثيراً دبلوماسياً وحضارياً على مستوى العالم. بكونها إحدى اللغات الرسمية الست المعتمدة في الأمم المتحدة، فإن إتقان لغة الضاد يفتح آفاقاً رحبة أمام الباحثين في الدبلوماسية والتواصل الدولي، كما أن علوم البلاغة تصقل التفكير وتثري الوجدان."
-      },
-      "category": {
-        "bn": "ভাষাতত্ত্ব ও গবেষণা",
-        "en": "Linguistics & Research",
-        "ar": "اللسانيات والبحوث"
+      "publishedAt": "2024-03-15",
+      "title": {
+        "ar": "أهمية وآفاق دراسة اللغة العربية في العصر الحديث",
+        "bn": "আধুনিক যুগে আরবি ভাষা চর্চার গুরুত্ব ও সম্ভাবনা",
+        "en": "The Significance and Global Horizon of Arabic Language Studies"
       },
       "tags": [
         "Arabic Language",
         "Linguistics",
         "Global Communication"
       ],
-      "featuredImage": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=800&auto=format&fit=crop",
-      "publishedAt": "2024-03-15",
       "slug": {
+        "ar": "تعلم-اللغة-العربية",
         "bn": "arabic-language-learning",
-        "en": "learning-arabic-language",
-        "ar": "تعلم-اللغة-العربية"
+        "en": "learning-arabic-language"
       },
-      "seoTitle": {
-        "bn": "আধুনিক যুগে আরবি ভাষা চর্চার গুরুত্ব - এহসানুল হক খান নাফিস",
-        "en": "Significance of Arabic Studies - Ehsanul Haque Khan Nafis",
-        "ar": "أهمية دراسة اللغة العربية - إحسان الحق خان نفيس"
-      },
-      "seoDescription": {
-        "bn": "আন্তর্জাতিক কূটনীতি, সাহিত্য ও উচ্চশিক্ষায় আরবি ভাষার গভীর প্রভাব নিয়ে এহসানুল হক খান নাফিসের চিন্তাশীল বিশ্লেষণ।",
-        "en": "Scholarly analysis by Ehsanul Haque Khan Nafis on the geopolitical and intellectual depth of modern Arabic linguistics.",
-        "ar": "قراءة تحليلية رصينة للباحث إحسان الحق خان نفيس حول الأبعاد الحضارية واللغوية للسان العربي في العصر الراهن."
-      },
-      "readingTime": "4 min read",
-      "status": "published",
       "translationStatus": {
         "bn": "published",
-        "en": "published",
-        "ar": "published"
+        "ar": "published",
+        "en": "published"
+      },
+      "content": {
+        "en": "Arabic is far beyond an ecclesiastical medium; it stands as one of the most intellectually vibrant and diplomatically vital tongues globally. Being one of the United Nations six official languages, fluency in Arabic equips scholars and diplomats with profound cultural capital and cross-continental insight. Its rhetorical precision (Balagah) cultivates unmatched intellectual acumen.",
+        "ar": "ليست اللغة العربية مجرد لغة مقدسة، بل هي إحدى أكثر اللغات حيوية وتأثيراً دبلوماسياً وحضارياً على مستوى العالم. بكونها إحدى اللغات الرسمية الست المعتمدة في الأمم المتحدة، فإن إتقان لغة الضاد يفتح آفاقاً رحبة أمام الباحثين في الدبلوماسية والتواصل الدولي، كما أن علوم البلاغة تصقل التفكير وتثري الوجدان.",
+        "bn": "আরবি কেবল একটি ধর্মীয় ভাষা নয়; বরং এটি বিশ্বের অন্যতম প্রভাবশালী আন্তর্জাতিক ভাষা। জাতিসংঘে স্বীকৃত শীর্ষ ৬টি দাপ্তরিক ভাষার একটি হিসেবে এর ভূ-রাজনৈতিক ও অর্থনৈতিক গুরুত্ব অপরিসীম। বিশেষ করে মধ্যপ্রাচ্য ও বিশ্বমঞ্চে যোগাযোগের ক্ষেত্রে আরবি ভাষার দক্ষতা অর্জন তরুণ প্রজন্মের জন্য অপরিসীম সম্ভাবনার দুয়ার উন্মোচন করে। সাহিত্যের দিক থেকে এর বালাগাহ ও অলংকারবিদ্যা মানুষের চিন্তাশক্তিকে শাণিত করে।"
+      },
+      "status": "published",
+      "category": {
+        "en": "Linguistics & Research",
+        "ar": "اللسانيات والبحوث",
+        "bn": "ভাষাতত্ত্ব ও গবেষণা"
       }
     },
     {
+      "seoTitle": {
+        "en": "Art of Public Speaking & Eloquence - Ehsanul Haque Khan Nafis",
+        "ar": "فن الخطابة والبيان - إحسان الحق خان نفيس",
+        "bn": "বাগ্মিতা ও যুক্তি: কার্যকর বক্তৃতার কৌশল - এহসানুল হক খান নাফিস"
+      },
+      "publishedAt": "2024-05-20",
+      "translationStatus": {
+        "en": "published",
+        "bn": "published",
+        "ar": "published"
+      },
+      "slug": {
+        "bn": "art-of-public-speaking",
+        "ar": "فن-الخطابة-والإلقاء",
+        "en": "art-of-public-speaking"
+      },
+      "readingTime": "5 min read",
       "id": "art-2",
-      "title": {
-        "bn": "বাগ্মিতা ও যুক্তি: কার্যকর বক্তৃতার কলাকৌশল",
-        "en": "Eloquence & Logic: Foundations of Persuasive Public Oratory",
-        "ar": "البيان والبرهان: أسس الخطابة المؤثرة والمقنعة"
-      },
-      "excerpt": {
-        "bn": "মঞ্চে দাঁড়িয়ে শ্রোতাদের হৃদয়ে পৌঁছানোর জন্য যুক্তি, আবেগ ও শারীরিক ভাষার সুসমন্বয় কীভাবে ঘটাতে হয়।",
-        "en": "How to harmonize logical argument, empathetic pathos, and disciplined poise to move an audience.",
-        "ar": "كيفية الجمع بين البرهان المنطقي والتأثير العاطفي ولغة الجسد الرصينة للتأثير في الجمهور."
-      },
-      "content": {
-        "bn": "একজন আদর্শ বক্তা কেবল শব্দ উচ্চারণ করেন না, তিনি ধারণাকে জীবন্ত রূপ দেন। কার্যকর বক্তৃতার জন্য প্রয়োজন তথ্যের যথার্থতা, কণ্ঠের ওঠানামা এবং শ্রোতার মানসিকতার সাথে সংযোগ স্থাপন। প্রাচীন বাগ্মীতার নিয়মানুযায়ী এথোস (চরিত্র), লোগোস (যুক্তি) এবং প্যাথোস (আবেগ)-এর ত্রিমুখী ভারসাম্যই একজন সাধারণ বক্তাকে অনন্য করে তোলে।",
-        "en": "An exceptional orator does not merely recite words; they animate transcendent ideas. Achieving lasting oratorical impact demands intellectual veracity, dynamic vocal modulation, and profound emotional resonance with listeners. Balancing ethos (credibility), logos (logic), and pathos (emotion) transforms a speech into a catalyst for conviction.",
-        "ar": "الخطيب البارع لا يسرد الكلمات فحسب، بل يبعث الروح في الأفكار السامية. إن قوة التأثير تتطلب دقة المعلومة، والتنغيم الصوتي المتزن، والتواصل الوجداني الصادق مع الحضور. إن الموازنة بين المصداقية الأخلاقية، والبرهان العقلي، والعاطفة الصادقة تصنع الفارق بين الخطيب العادي والملهم."
-      },
-      "category": {
-        "bn": "পাবলিক স্পিকিং ও বিতর্ক",
-        "en": "Public Speaking & Debate",
-        "ar": "الخطابة وفن الإلقاء"
-      },
       "tags": [
         "Public Speaking",
         "Debate",
         "Rhetoric"
       ],
-      "featuredImage": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=800&auto=format&fit=crop",
-      "publishedAt": "2024-05-20",
-      "slug": {
-        "bn": "art-of-public-speaking",
-        "en": "art-of-public-speaking",
-        "ar": "فن-الخطابة-والإلقاء"
+      "excerpt": {
+        "en": "How to harmonize logical argument, empathetic pathos, and disciplined poise to move an audience.",
+        "ar": "كيفية الجمع بين البرهان المنطقي والتأثير العاطفي ولغة الجسد الرصينة للتأثير في الجمهور.",
+        "bn": "মঞ্চে দাঁড়িয়ে শ্রোতাদের হৃদয়ে পৌঁছানোর জন্য যুক্তি, আবেগ ও শারীরিক ভাষার সুসমন্বয় কীভাবে ঘটাতে হয়।"
       },
-      "seoTitle": {
-        "bn": "বাগ্মিতা ও যুক্তি: কার্যকর বক্তৃতার কৌশল - এহসানুল হক খান নাফিস",
-        "en": "Art of Public Speaking & Eloquence - Ehsanul Haque Khan Nafis",
-        "ar": "فن الخطابة والبيان - إحسان الحق خان نفيس"
+      "featuredImage": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?q=80&w=800&auto=format&fit=crop",
+      "status": "published",
+      "category": {
+        "en": "Public Speaking & Debate",
+        "bn": "পাবলিক স্পিকিং ও বিতর্ক",
+        "ar": "الخطابة وفن الإلقاء"
+      },
+      "title": {
+        "en": "Eloquence & Logic: Foundations of Persuasive Public Oratory",
+        "ar": "البيان والبرهان: أسس الخطابة المؤثرة والمقنعة",
+        "bn": "বাগ্মিতা ও যুক্তি: কার্যকর বক্তৃতার কলাকৌশল"
+      },
+      "content": {
+        "en": "An exceptional orator does not merely recite words; they animate transcendent ideas. Achieving lasting oratorical impact demands intellectual veracity, dynamic vocal modulation, and profound emotional resonance with listeners. Balancing ethos (credibility), logos (logic), and pathos (emotion) transforms a speech into a catalyst for conviction.",
+        "bn": "একজন আদর্শ বক্তা কেবল শব্দ উচ্চারণ করেন না, তিনি ধারণাকে জীবন্ত রূপ দেন। কার্যকর বক্তৃতার জন্য প্রয়োজন তথ্যের যথার্থতা, কণ্ঠের ওঠানামা এবং শ্রোতার মানসিকতার সাথে সংযোগ স্থাপন। প্রাচীন বাগ্মীতার নিয়মানুযায়ী এথোস (চরিত্র), লোগোস (যুক্তি) এবং প্যাথোস (আবেগ)-এর ত্রিমুখী ভারসাম্যই একজন সাধারণ বক্তাকে অনন্য করে তোলে।",
+        "ar": "الخطيب البارع لا يسرد الكلمات فحسب، بل يبعث الروح في الأفكار السامية. إن قوة التأثير تتطلب دقة المعلومة، والتنغيم الصوتي المتزن، والتواصل الوجداني الصادق مع الحضور. إن الموازنة بين المصداقية الأخلاقية، والبرهان العقلي، والعاطفة الصادقة تصنع الفارق بين الخطيب العادي والملهم."
       },
       "seoDescription": {
         "bn": "মঞ্চে সফল উপস্থাপনা ও বাগ্মিতার মূল কৌশল নিয়ে এহসানুল হক খান নাফিসের নির্দেশনামূলক নিবন্ধ।",
-        "en": "Key methodologies of persuasive rhetoric and public oration authored by Ehsanul Haque Khan Nafis.",
-        "ar": "دليل عملي ومنهجي لإتقان فنون الإلقاء والخطابة والبيان بقلم إحسان الحق خان نفيس."
-      },
-      "readingTime": "5 min read",
-      "status": "published",
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
+        "ar": "دليل عملي ومنهجي لإتقان فنون الإلقاء والخطابة والبيان بقلم إحسان الحق خان نفيس.",
+        "en": "Key methodologies of persuasive rhetoric and public oration authored by Ehsanul Haque Khan Nafis."
       }
     }
   ],
@@ -913,150 +913,150 @@
     {
       "id": "proj-1",
       "title": {
-        "bn": "আরবি ভাষা সহজীকরণ ফোরাম (অনলাইন উদ্যোগ)",
         "en": "Arabic Literacy Simplification Initiative",
-        "ar": "مبادرة تيسير اللغة العربية للناطقين بغيرها"
+        "ar": "مبادرة تيسير اللغة العربية للناطقين بغيرها",
+        "bn": "আরবি ভাষা সহজীকরণ ফোরাম (অনলাইন উদ্যোগ)"
+      },
+      "translationStatus": {
+        "ar": "published",
+        "bn": "published",
+        "en": "published"
       },
       "description": {
-        "bn": "বাংলাভাষী শিক্ষার্থীদের জন্য আধুনিক পদ্ধতিতে সহজ নিয়মে আরবি ব্যাকরণ ও কথোপকথন চর্চার উন্মুক্ত শিক্ষা উপকরণ প্রস্তুতকরণ।",
         "en": "Curating accessible pedagogical notes and structured guides to teach classical and conversational Arabic to Bengali students.",
-        "ar": "إعداد مذكرات تعليمية ودروس مبسطة لتعليم النحو والمحادثة العربية للطلاب الناطقين بالبنجالية وفق أحدث الأساليب."
+        "ar": "إعداد مذكرات تعليمية ودروس مبسطة لتعليم النحو والمحادثة العربية للطلاب الناطقين بالبنجالية وفق أحدث الأساليب.",
+        "bn": "বাংলাভাষী শিক্ষার্থীদের জন্য আধুনিক পদ্ধতিতে সহজ নিয়মে আরবি ব্যাকরণ ও কথোপকথন চর্চার উন্মুক্ত শিক্ষা উপকরণ প্রস্তুতকরণ।"
       },
-      "category": {
-        "bn": "শিক্ষা ও ভাষা",
-        "en": "Education & Linguistics",
-        "ar": "التعليم واللغة"
-      },
-      "link": "https://facebook.com/ihsan1334",
       "tags": [
         "Pedagogy",
         "Arabic",
         "Open Access"
       ],
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
-      }
+      "category": {
+        "bn": "শিক্ষা ও ভাষা",
+        "ar": "التعليم واللغة",
+        "en": "Education & Linguistics"
+      },
+      "link": "https://facebook.com/ihsan1334"
     },
     {
-      "id": "proj-2",
-      "title": {
-        "bn": "লক্ষ্মীপুর শিক্ষা ও মানবসেবা তহবিল",
-        "en": "Lakshmipur Youth Education & Welfare Drive",
-        "ar": "صندوق لاكشميبور للتعليم والرعاية الاجتماعية"
+      "category": {
+        "bn": "সামাজিক উদ্যোগ",
+        "ar": "مبادرة مجتمعية",
+        "en": "Social Initiative"
+      },
+      "translationStatus": {
+        "en": "published",
+        "ar": "published",
+        "bn": "published"
       },
       "description": {
         "bn": "অসহায় মেধাবী শিক্ষার্থীদের মাঝে বই ও খাতা বিতরণ এবং মাসিক শিক্ষা সহায়তা তহবিল পরিচালনা।",
-        "en": "Coordinating local scholarship stipends, textbook drives, and stationery packages for underprivileged students.",
-        "ar": "تأمين الكتب المدرسية والمنح الدراسية الجزئية للطلاب المتفوقين غير القادرين في منطقة لاكشميبور."
-      },
-      "category": {
-        "bn": "সামাজিক উদ্যোগ",
-        "en": "Social Initiative",
-        "ar": "مبادرة مجتمعية"
+        "ar": "تأمين الكتب المدرسية والمنح الدراسية الجزئية للطلاب المتفوقين غير القادرين في منطقة لاكشميبور.",
+        "en": "Coordinating local scholarship stipends, textbook drives, and stationery packages for underprivileged students."
       },
       "tags": [
         "Youth",
         "Charity",
         "Education"
       ],
-      "translationStatus": {
-        "bn": "published",
-        "en": "published",
-        "ar": "published"
+      "id": "proj-2",
+      "title": {
+        "en": "Lakshmipur Youth Education & Welfare Drive",
+        "bn": "লক্ষ্মীপুর শিক্ষা ও মানবসেবা তহবিল",
+        "ar": "صندوق لاكشميبور للتعليم والرعاية الاجتماعية"
       }
     }
   ],
   "media": [
     {
-      "id": "med-1789701865000",
-      "url": "https://kommodo.ai/i/V7727y6pDgH2ZWMGZpED",
-      "name": "photo-1789701865000.jpg",
-      "type": "photo",
-      "mediaCategory": "photo",
-      "title": {
-        "bn": "আরবি বিভাগের সেমিনার লাইব্রেরিতে এহসানুল হক খান নাফিস",
-        "en": "Ihsanul Haque Khan Nafis at the Seminar Library of the Department of Arabic",
-        "ar": "إحسان الحق خان نافس في مكتبة السيمينار بقسم اللغة العربية"
-      },
       "altText": {
-        "bn": "আরবি বিভাগের সেমিনার লাইব্রেরিতে এহসানুল হক খান নাফিস",
         "en": "Ihsanul Haque Khan Nafis at the Seminar Library of the Department of Arabic",
+        "bn": "আরবি বিভাগের সেমিনার লাইব্রেরিতে এহসানুল হক খান নাফিস",
         "ar": "إحسان الحق خان نافس في مكتبة السيمينار بقسم اللغة العربية"
       },
       "caption": {
+        "ar": "",
         "bn": "",
-        "en": "",
-        "ar": ""
+        "en": ""
       },
+      "title": {
+        "en": "Ihsanul Haque Khan Nafis at the Seminar Library of the Department of Arabic",
+        "ar": "إحسان الحق خان نافس في مكتبة السيمينار بقسم اللغة العربية",
+        "bn": "আরবি বিভাগের সেমিনার লাইব্রেরিতে এহসানুল হক খান নাফিস"
+      },
+      "name": "photo-1789701865000.jpg",
+      "id": "med-1789701865000",
+      "uploadedAt": "2026-09-18",
+      "mediaCategory": "photo",
       "source": "Personal Archive",
-      "uploadedAt": "2026-09-18"
+      "type": "photo",
+      "url": "https://kommodo.ai/i/V7727y6pDgH2ZWMGZpED"
     },
     {
       "id": "med-1789701499641",
-      "url": "https://img.youtube.com/vi/VXzyqcxGq1w/hqdefault.jpg",
-      "name": "video-1789701499641.jpg",
-      "type": "video",
+      "source": "YouTube Archive",
       "mediaCategory": "video",
-      "youtubeUrl": "https://www.youtube.com/watch?v=VXzyqcxGq1w",
+      "name": "video-1789701499641.jpg",
+      "uploadedAt": "2026-09-18",
       "youtubeId": "VXzyqcxGq1w",
+      "youtubeUrl": "https://www.youtube.com/watch?v=VXzyqcxGq1w",
       "title": {
-        "bn": "লতিফ ট্রাভেলস-সৃজনঘর টুয়েলভ মিনিট সিরাত ২০২৫",
         "en": "Ihsanul Haque Khan - Latif Travels - Srijanghor Twelve Minute Seerah 2025",
+        "bn": "লতিফ ট্রাভেলস-সৃজনঘর টুয়েলভ মিনিট সিরাত ২০২৫",
         "ar": "إحسان الحق خان - لطيف للترافلز - سرجونغر (سريجانغور) سيرت الاثني عشر دقيقة 2025"
+      },
+      "type": "video",
+      "url": "https://img.youtube.com/vi/VXzyqcxGq1w/hqdefault.jpg",
+      "caption": {
+        "en": "",
+        "ar": "",
+        "bn": ""
       },
       "altText": {
+        "ar": "إحسان الحق خان - لطيف للترافلز - سرجونغر (سريجانغور) سيرت الاثني عشر دقيقة 2025",
         "bn": "লতিফ ট্রাভেলস-সৃজনঘর টুয়েলভ মিনিট সিরাত ২০২৫",
-        "en": "Ihsanul Haque Khan - Latif Travels - Srijanghor Twelve Minute Seerah 2025",
-        "ar": "إحسان الحق خان - لطيف للترافلز - سرجونغر (سريجانغور) سيرت الاثني عشر دقيقة 2025"
-      },
-      "caption": {
-        "bn": "",
-        "en": "",
-        "ar": ""
-      },
-      "source": "YouTube Archive",
-      "uploadedAt": "2026-09-18"
+        "en": "Ihsanul Haque Khan - Latif Travels - Srijanghor Twelve Minute Seerah 2025"
+      }
     }
   ],
   "seo": {
-    "title": {
-      "bn": "এহসানুল হক খান নাফিস | আরবি ভাষা ও সীরাত চর্চা এবং শিক্ষকতায় নিবেদিত",
-      "en": "Ehsanul Haque Khan Nafis | Dedicated to Arabic Language, Seerah Studies & Teaching",
-      "ar": "إحسان الحق خان نفيس | مكرس لدراسات اللغة العربية والسيرة النبوية والتعليم"
+    "ogDescription": {
+      "bn": "জ্ঞান, ভাষা, বাগ্মিতা ও মানবিক সেবার সমন্বয়ে গড়ে ওঠা ব্যক্তিগত ও একাডেমিক পরিচিতি।",
+      "ar": "منصة تجمع بين البحث العلمي الرصين وفصاحة البيان والخدمة الإنسانية النبيلة.",
+      "en": "Bridging scholarship, Arabic linguistics, public oratory, and civic impact."
     },
     "description": {
+      "ar": "الموقع والملف الأكاديمي الرسمي للباحث إحسان الحق خان نفيس في اللغة العربية وآدابها والعمل التطوعي.",
       "bn": "ইসলামী বিশ্ববিদ্যালয় কুষ্টিয়ার আরবি ভাষা ও সাহিত্যের শিক্ষার্থী এহসানুল হক খান নাফিসের প্রাতিষ্ঠানিক ও ব্যক্তিগত পোর্টফোলিও।",
-      "en": "Official personal portfolio, academic journey, and multilingual knowledge repository of Ehsanul Haque Khan Nafis.",
-      "ar": "الموقع والملف الأكاديمي الرسمي للباحث إحسان الحق خان نفيس في اللغة العربية وآدابها والعمل التطوعي."
+      "en": "Official personal portfolio, academic journey, and multilingual knowledge repository of Ehsanul Haque Khan Nafis."
     },
     "keywords": {
-      "bn": "এহসানুল হক খান নাফিস, আরবি ভাষা ও সাহিত্য, ইসলামিক ইউনিভার্সিটি কুষ্টিয়া, তামিরুল মিল্লাত, বক্তা, বিতর্ক, স্বেচ্ছাসেবী",
       "en": "Ehsanul Haque Khan Nafis, Arabic Language and Literature, Islamic University Kushtia, Debater, Public Speaker, Volunteer Lakshmipur",
+      "bn": "এহসানুল হক খান নাফিস, আরবি ভাষা ও সাহিত্য, ইসলামিক ইউনিভার্সিটি কুষ্টিয়া, তামিরুল মিল্লাত, বক্তা, বিতর্ক, স্বেচ্ছাসেবী",
       "ar": "إحسان الحق خان نفيس, اللغة العربية وآدابها, الجامعة الإسلامية كوشتيا, مناظر, خطيب, متطوع بنغلاديش"
+    },
+    "ogImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop",
+    "title": {
+      "ar": "إحسان الحق خان نفيس | مكرس لدراسات اللغة العربية والسيرة النبوية والتعليم",
+      "bn": "এহসানুল হক খান নাফিস | আরবি ভাষা ও সীরাত চর্চা এবং শিক্ষকতায় নিবেদিত",
+      "en": "Ehsanul Haque Khan Nafis | Dedicated to Arabic Language, Seerah Studies & Teaching"
     },
     "ogTitle": {
       "bn": "এহসানুল হক খান নাফিস - অফিশিয়াল প্ল্যাটফর্ম",
-      "en": "Ehsanul Haque Khan Nafis - Official Digital Platform",
-      "ar": "إحسان الحق خان نفيس - المنصة الرسمية"
-    },
-    "ogDescription": {
-      "bn": "জ্ঞান, ভাষা, বাগ্মিতা ও মানবিক সেবার সমন্বয়ে গড়ে ওঠা ব্যক্তিগত ও একাডেমিক পরিচিতি।",
-      "en": "Bridging scholarship, Arabic linguistics, public oratory, and civic impact.",
-      "ar": "منصة تجمع بين البحث العلمي الرصين وفصاحة البيان والخدمة الإنسانية النبيلة."
-    },
-    "ogImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop"
+      "ar": "إحسان الحق خان نفيس - المنصة الرسمية",
+      "en": "Ehsanul Haque Khan Nafis - Official Digital Platform"
+    }
   },
   "settings": {
-    "autoTranslateOnSave": true,
-    "autoPublishAITranslations": false,
     "adminPasscode": "ihsan2026",
+    "autoTranslateOnSave": true,
     "contactEmail": "ihsanul1334@gmail.com",
-    "contactPhone": "+8801856741334",
+    "enableBlog": true,
+    "autoPublishAITranslations": false,
     "contactWhatsapp": "+8801856741334",
     "contactFacebook": "https://www.facebook.com/ihsan1334",
-    "enableBlog": true,
+    "contactPhone": "+8801856741334",
     "maintenanceMode": false
   }
 }

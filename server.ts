@@ -19,6 +19,7 @@ if (!fs.existsSync(UPLOADS_DIR)) {
   fs.mkdirSync(UPLOADS_DIR, { recursive: true });
 }
 app.use('/assets/uploads', express.static(UPLOADS_DIR));
+app.use('/assets', express.static(path.join(process.cwd(), 'public/assets')));
 
 // Lazy GoogleGenAI client
 let aiClient: GoogleGenAI | null = null;

@@ -159,6 +159,10 @@ export const PortfolioProvider: React.FC<{ children: React.ReactNode }> = ({ chi
       try {
         const firestoreData = await getPortfolioDoc();
         if (firestoreData && firestoreData.profile && isMounted) {
+          if (!firestoreData.profile.avatarUrl || firestoreData.profile.avatarUrl.includes('unsplash.com')) {
+            firestoreData.profile.avatarUrl = '/assets/ehsanul_haque_khan_nafis.png';
+            savePortfolioDoc({ profile: firestoreData.profile }).catch(console.warn);
+          }
           setData(firestoreData);
           setFirebaseConnected(true);
           localStorage.setItem(STORAGE_DATA_KEY, JSON.stringify(firestoreData));
@@ -231,6 +235,9 @@ export const PortfolioProvider: React.FC<{ children: React.ReactNode }> = ({ chi
     const unsubscribeSnapshot = subscribeToPortfolioDoc(
       (remoteData) => {
         if (remoteData && remoteData.profile && isMounted) {
+          if (!remoteData.profile.avatarUrl || remoteData.profile.avatarUrl.includes('unsplash.com')) {
+            remoteData.profile.avatarUrl = '/assets/ehsanul_haque_khan_nafis.png';
+          }
           setData(remoteData);
           setFirebaseConnected(true);
           localStorage.setItem(STORAGE_DATA_KEY, JSON.stringify(remoteData));

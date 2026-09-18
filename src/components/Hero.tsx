@@ -630,9 +630,9 @@ export const Hero: React.FC = () => {
               <button
                 type="button"
                 onClick={() => {
-                  processAndSaveImage('https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop');
+                  processAndSaveImage('/assets/ehsanul_haque_khan_nafis.png');
                 }}
-                className="text-xs text-gray-500 hover:text-red-500 flex items-center gap-1 cursor-pointer transition-colors"
+                className="text-xs text-gray-500 hover:text-[#C6A15B] flex items-center gap-1 cursor-pointer transition-colors"
                 title="Reset to default"
               >
                 <RotateCcw className="w-3 h-3" />
