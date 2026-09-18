@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-navy: #0B1F33;
+    --color-midnight: #142B3D;
+    --color-ivory: #F8F6F0;
+    --color-white: #FFFFFF;
+    --color-gold: #C6A15B;
+    --color-gold-hover: #b38e47;
+    --color-sand: #E9E2D2;
+    --color-teal: #3E7180;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  html[lang="bn"] {
+    font-family: 'Hind Siliguri', 'Manrope', sans-serif;
+  }
+
+  html[lang="ar"] {
+    font-family: 'IBM Plex Sans Arabic', 'Amiri', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  body {
+    background-color: #F8F6F0;
+    color: #0B1F33;
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  .dark body,
+  body.dark,
+  html.dark body {
+    background-color: #0B1F33;
+    color: #F8F6F0;
+  }
+}
+
+.font-bengali {
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.font-english {
+  font-family: 'Manrope', sans-serif;
+}
+
+.font-arabic {
+  font-family: 'IBM Plex Sans Arabic', 'Amiri', serif;
+}
+
+.font-arabic-heading {
+  font-family: 'Amiri', 'IBM Plex Sans Arabic', serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C6A15B;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b38e47;
+}
+
+/* Subtle geometric Islamic motif background pattern */
+.bg-islamic-pattern {
+  background-image: radial-gradient(rgba(198, 161, 91, 0.08) 1.5px, transparent 1.5px), radial-gradient(rgba(62, 113, 128, 0.06) 1.5px, transparent 1.5px);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+.dark .bg-islamic-pattern {
+  background-image: radial-gradient(rgba(198, 161, 91, 0.12) 1.5px, transparent 1.5px), radial-gradient(rgba(62, 113, 128, 0.10) 1.5px, transparent 1.5px);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+/* Nafis Calligraphy Logo Auto-Animations */
+@keyframes nafisFloat {
+  0%, 100% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-2px) scale(1.025);
+  }
+}
+
+@keyframes nafisDiamondPulse {
+  0%, 100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 2px rgba(198, 161, 91, 0.3));
+  }
+  50% {
+    transform: scale(1.12);
+    filter: drop-shadow(0 0 6px rgba(255, 235, 170, 0.9));
+  }
+}
+
+@keyframes nafisSheen {
+  0%, 100% {
+    opacity: 0.2;
+    stroke-dashoffset: 20;
+  }
+  50% {
+    opacity: 0.9;
+    stroke-dashoffset: 0;
+  }
+}
+
+.nafis-logo-animated {
+  animation: nafisFloat 3.8s ease-in-out infinite;
+  transform-origin: center center;
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.nafis-logo-animated:hover {
+  filter: drop-shadow(0 0 12px rgba(198, 161, 91, 0.7));
+  transform: scale(1.08);
+}
+
+.nafis-diamond-pulse {
+  transform-origin: 50px 14.5px;
+  animation: nafisDiamondPulse 3.2s ease-in-out infinite;
+}
+
+.nafis-sheen-line {
+  animation: nafisSheen 2.5s ease-in-out infinite;
+}
+
+

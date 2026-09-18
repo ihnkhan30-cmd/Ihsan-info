@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="bn" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function() {
+        try {
+          var rawFetch = window.fetch ? window.fetch.bind(window) : undefined;
+          var activeFetch = rawFetch;
+          Object.defineProperty(window, 'fetch', {
+            configurable: true,
+            enumerable: true,
+            get: function() {
+              return activeFetch;
+            },
+            set: function(fn) {
+              activeFetch = fn;
+            }
+          });
+          if (typeof Window !== 'undefined' && Window.prototype) {
+            var protoDesc = Object.getOwnPropertyDescriptor(Window.prototype, 'fetch');
+            if (protoDesc && !protoDesc.set && protoDesc.configurable) {
+              Object.defineProperty(Window.prototype, 'fetch', {
+                configurable: true,
+                enumerable: protoDesc.enumerable,
+                get: protoDesc.get,
+                set: function(fn) {
+                  activeFetch = fn;
+                }
+              });
+            }
+          }
+        } catch (e) {
+          // Safeguard in place
+        }
+      })();
+    </script>
+    <title>Ehsanul Haque Khan Nafis - Multilingual Academic & Personal Brand Platform</title>
+    <meta name="description" content="Official personal brand, academic profile, and multilingual knowledge platform of Ehsanul Haque Khan Nafis (এহসানুল হক খান নাফিস / إحسان الحق خان نفيس) – Arabic Language & Literature scholar, speaker, and volunteer." />
+    <meta name="keywords" content="Ehsanul Haque Khan Nafis, Ihsanul Haque Khan, إحسان الحق خان نفيس, এহসানুল হক খান নাফিস, Arabic Language and Literature, Islamic University Kushtia, Academic Profile, Public Speaker, Volunteer" />
+    <meta name="author" content="Ehsanul Haque Khan Nafis" />
+    <meta name="theme-color" content="#0B1F33" />
+    
+    <!-- OpenGraph -->
+    <meta property="og:type" content="profile" />
+    <meta property="og:site_name" content="Ehsanul Haque Khan Nafis | এহসানুল হক খান নাফিস" />
+    <meta property="og:title" content="Ehsanul Haque Khan Nafis - Multilingual Academic & Personal Brand Platform" />
+    <meta property="og:description" content="Official personal brand, academic profile, and multilingual knowledge platform of Ehsanul Haque Khan Nafis (এহসানুল হক খান নাফিস / إحسان الحق خان نفيس) – Arabic Language & Literature scholar, speaker, and volunteer." />
+    <meta property="og:locale" content="bn_BD" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:locale:alternate" content="ar_AR" />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Ehsanul Haque Khan Nafis - Multilingual Academic & Personal Brand Platform" />
+    <meta name="twitter:description" content="Official personal brand, academic profile, and multilingual knowledge platform of Ehsanul Haque Khan Nafis (এহসানুল হক খান নাফিস / إحسان الحق خان نفيس) – Arabic Language & Literature scholar, speaker, and volunteer." />
+
+    <!-- Multilingual SEO alternates -->
+    <link rel="alternate" hreflang="bn" href="/bn" />
+    <link rel="alternate" hreflang="en" href="/en" />
+    <link rel="alternate" hreflang="ar" href="/ar" />
+    <link rel="alternate" hreflang="x-default" href="/bn" />
+
+    <!-- Google Fonts Preconnect & Stylesheets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Hind+Siliguri:wght@300;400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <!-- Structured Data JSON-LD (Person & WebSite) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Person",
+          "@id": "https://ihsanulhaque.com/#person",
+          "name": "Ehsanul Haque Khan Nafis",
+          "alternateName": ["إحسان الحق خان نفيس", "এহসানুল হক খান নাফিস", "Ihsanul Haque Khan Nafis"],
+          "jobTitle": "Scholar of Arabic Language & Literature, Public Speaker, Volunteer",
+          "alumniOf": [
+            {
+              "@type": "CollegeOrUniversity",
+              "name": "Islamic University, Kushtia"
+            },
+            {
+              "@type": "EducationalOrganization",
+              "name": "Tamirul Millat Kamil Madrasa"
+            },
+            {
+              "@type": "EducationalOrganization",
+              "name": "Mandari Islamia Alim Madrasa"
+            }
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lakshmipur",
+            "addressCountry": "Bangladesh"
+          },
+          "email": "mailto:ihsanul1334@gmail.com",
+          "telephone": "+8801856741334",
+          "sameAs": [
+            "https://www.facebook.com/ihsan1334"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://ihsanulhaque.com/#website",
+          "name": "Ehsanul Haque Khan Nafis - Official Platform",
+          "inLanguage": ["bn", "en", "ar"]
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body class="antialiased selection:bg-[#C6A15B]/30 selection:text-[#0B1F33] dark:selection:text-[#F8F6F0]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

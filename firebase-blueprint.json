@@ -1,0 +1,16 @@
+{
+  "entities": {
+    "portfolio": {
+      "title": "Portfolio Content",
+      "description": "Stores profile, education, experience, activities, skills, languages, awards, articles, and media gallery content."
+    },
+    "contacts": {
+      "title": "Contact Messages",
+      "description": "Messages sent by visitors through the contact form."
+    },
+    "uploaded_files": {
+      "title": "Uploaded Files and Media",
+      "description": "Stores uploaded file metadata, preview dataUrl, dimensions, MIME types, and file storage information in Firestore."
+    }
+  }
+}
